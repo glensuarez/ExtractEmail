@@ -1,5 +1,5 @@
 # ExtractEmail
-Programa Django(Python) para extraer y guardar emails desde un text en un Excel.
+Programa Django(Python) para extraer y guardar emails desde un archivo txt en un Excel.
 
 El programa que se va a revisar es una aplicación desarrollada en Django utilizando la versión más actualizada para el año 2023 de este framework web. Su objetivo principal es extraer direcciones de correo electrónico de un archivo de texto (TXT) proporcionado y guardarlas en una hoja de Excel.
 El programa implementa la funcionalidad requerida de manera efectiva y aprovecha las características y mejoras más recientes de Django. A continuación, se analizan algunos aspectos destacados del programa:
